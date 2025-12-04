@@ -1,6 +1,6 @@
 ﻿# NPN: Non-Linear Projections of the Null-Space for Imaging Inverse Problems
 
-This repository accompanies the paper "NPN: Non-Linear Projections of the Null-Space for Imaging Inverse Problems" (see 2510.01608v2.pdf). NPN learns a neural projection onto a compact, task-aware subspace of the sensing operator's null-space and uses it as a prior for plug-and-play and unrolled reconstruction of inverse problems such as deblurring and super-resolution.
+This repository accompanies the paper "NPN: Non-Linear Projections of the Null-Space for Imaging Inverse Problems" NeurIPS 2025. NPN learns a neural projection onto a compact, task-aware subspace of the sensing operator's null-space and uses it as a prior for plug-and-play and unrolled reconstruction of inverse problems such as deblurring and super-resolution.
 
 ## Method in brief
 - Learn a projection matrix S that spans informative directions of the null-space of the sensing matrix H.
