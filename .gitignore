@@ -1,0 +1,5 @@
+*.pth
+*.pt
+*.pdf
+*.pyc
+__pycache__/
